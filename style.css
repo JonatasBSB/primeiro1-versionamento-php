@@ -1,0 +1,17 @@
+h1{
+    color: black;
+}
+
+p{
+    color: white;
+}
+img{
+    width: 140px;
+}
+figcaption{
+    color: rgb(163, 8, 8);
+}
+body{
+
+    background-color: rgb(156, 154, 154);
+}
