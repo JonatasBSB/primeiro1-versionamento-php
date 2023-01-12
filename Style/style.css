@@ -2,6 +2,7 @@
     width: 180px;
 }
 header{
+    
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -24,18 +25,33 @@ p{
     color: white;
 }
 img{
-    width: 500px;
+   width: 500px;
 }
+
 figcaption{
     color: rgb(163, 8, 8);
 }
+
 #LinksH{
+
    list-style-type: none;
    display: flex;
-   width: 350px;
+   width: 300px;
    justify-content: space-around;
-   align-items: center;
+   align-items: left;
    
+}
+#pesquisar{
+    justify-content: flex-end;
+     display:flex
+     
+     
+}
+input{
+    margin-right: 5px;
+    width: 50%;
+    outline: none;
+    
 }
 
 a{
